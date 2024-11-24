@@ -1,5 +1,5 @@
 ## Hi there! My name is Johnny Quinn 
-#### I am a 3rd year student at rit studying Software eng
+#### I am a 3rd year student at rit studying Software engineering
 ---
 ### joe
 
